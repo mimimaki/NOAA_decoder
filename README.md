@@ -24,5 +24,5 @@ The decoded image is not as smooth as the noaa-apt decoded one and is a bit shif
 Written by Miikka Mäki (git: mimimaki), 5th August 2024.
 ### [Miikka Mäki](https://github.com/mimimaki)
 
-## Lisence
-MIT Lisence, free to use as you wish. 
+## License
+MIT License, free to use as you wish. 
