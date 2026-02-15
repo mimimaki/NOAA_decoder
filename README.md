@@ -1,9 +1,7 @@
 # NOAA decoder
-NOAA15/18/19 weather satellite decoder Python script
 
-Open source project to train your Python and signal processing skills.
-
-Project repository: https://github.com/mimimaki/NOAA_decoder
+## Decommission
+Unfortunately, NOAA satellites NOAA-15, NOAA-18 and NOAA-19 were decommissioned in 2025. There were plans to improve the decoder, but this was scrapped after hearing the faith of the satellites. This script could still be used to decode old recordings of NOAA. Regardless, this repo can be used as educational purpouses.
 
 ## Background 
 This project was done in one night just for fun. I previously had received some satellite images from NOAA18 using an SDR and wondered how hard would it be to decode it myself. The received signal is included as media/example.wav and I began by decoding it using the noaa-apt open source software (https://noaa-apt.mbernardi.com.ar/). The result is included as media/example_decoded.png and looks good. After this, I began exploring how to decode this myself.
